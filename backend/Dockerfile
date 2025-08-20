@@ -5,5 +5,3 @@ RUN npm install
 COPY . .
 EXPOSE 15000
 CMD ["npm", "start"]
-
-#ถึงหน้า 82
